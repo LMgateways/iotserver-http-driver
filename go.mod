@@ -1,4 +1,4 @@
-module github.com/iotserver-org/iotserver-http-driver
+module github.com/LMgateways/iotserver-http-driver
 
 go 1.18
 

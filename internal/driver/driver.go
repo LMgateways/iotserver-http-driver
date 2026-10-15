@@ -25,9 +25,9 @@ import (
 	"github.com/winc-link/hummingbird-sdk-go/model"
 	"github.com/winc-link/hummingbird-sdk-go/service"
 
-	drivercfg "github.com/iotserver-org/iotserver-http-driver/config"
-	"github.com/iotserver-org/iotserver-http-driver/internal/device"
-	"github.com/iotserver-org/iotserver-http-driver/internal/server"
+	drivercfg "github.com/LMgateways/iotserver-http-driver/config"
+	"github.com/LMgateways/iotserver-http-driver/internal/device"
+	"github.com/LMgateways/iotserver-http-driver/internal/server"
 )
 
 // pendingCommand 一条待设备拉取的下行命令。

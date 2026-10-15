@@ -15,8 +15,8 @@
 package main
 
 import (
-	"github.com/iotserver-org/iotserver-http-driver/config"
-	"github.com/iotserver-org/iotserver-http-driver/internal/driver"
+	"github.com/LMgateways/iotserver-http-driver/config"
+	"github.com/LMgateways/iotserver-http-driver/internal/driver"
 	"github.com/winc-link/hummingbird-sdk-go/commons"
 	"github.com/winc-link/hummingbird-sdk-go/service"
 )
