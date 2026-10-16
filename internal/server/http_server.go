@@ -31,7 +31,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/winc-link/hummingbird-sdk-go/service"
+	"github.com/LMgateways/iotserver-sdk-go/service"
 
 	drivercfg "github.com/LMgateways/iotserver-http-driver/config"
 )

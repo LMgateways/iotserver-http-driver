@@ -17,8 +17,8 @@ package main
 import (
 	"github.com/LMgateways/iotserver-http-driver/config"
 	"github.com/LMgateways/iotserver-http-driver/internal/driver"
-	"github.com/winc-link/hummingbird-sdk-go/commons"
-	"github.com/winc-link/hummingbird-sdk-go/service"
+	"github.com/LMgateways/iotserver-sdk-go/commons"
+	"github.com/LMgateways/iotserver-sdk-go/service"
 )
 
 func main() {
