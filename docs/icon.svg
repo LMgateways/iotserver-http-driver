@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="HTTP">
+  <!-- HTTP：请求/响应 —— 地球 + 上下箭头 -->
+  <g fill="none" stroke="#fa8c16" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <!-- 地球 -->
+    <circle cx="60" cy="60" r="40"/>
+    <!-- 经线 -->
+    <ellipse cx="60" cy="60" rx="17" ry="40"/>
+    <!-- 纬线 -->
+    <path d="M22 48 H98"/>
+    <path d="M22 72 H98"/>
+  </g>
+  <!-- 上传箭头 -->
+  <path d="M60 100 V84 M54 90 L60 84 L66 90" fill="none" stroke="#fa8c16" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
